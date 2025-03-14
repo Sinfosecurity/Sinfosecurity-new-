@@ -194,9 +194,7 @@ export default function Footer() {
               <li className="flex items-start gap-3">
                 <MapPin className="h-5 w-5 text-blackbox-red mt-0.5" />
                 <span className="text-white/80">
-                  1234 Cyber Street, Suite 500
-                  <br />
-                  Tech City, CA 90210
+                  Queens NY, USA
                 </span>
               </li>
               <li className="flex items-center gap-3">

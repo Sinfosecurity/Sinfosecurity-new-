@@ -179,11 +179,7 @@ export default function AboutPage() {
               </div>
               <h3 className="text-xl font-heading font-bold text-primary mb-2">Headquarters</h3>
               <p className="text-muted-foreground mb-4">
-                1234 Cyber Street, Suite 500
-                <br />
-                Tech City, CA 90210
-                <br />
-                United States
+                Queens NY, USA
               </p>
               <Link href="/contact" className="text-accent hover:text-accent/80 font-medium">
                 Get Directions
@@ -196,11 +192,7 @@ export default function AboutPage() {
               </div>
               <h3 className="text-xl font-heading font-bold text-primary mb-2">European Office</h3>
               <p className="text-muted-foreground mb-4">
-                45 Security Boulevard
-                <br />
-                London, EC2A 4BQ
-                <br />
-                United Kingdom
+                London UK
               </p>
               <Link href="/contact" className="text-accent hover:text-accent/80 font-medium">
                 Get Directions
@@ -213,11 +205,7 @@ export default function AboutPage() {
               </div>
               <h3 className="text-xl font-heading font-bold text-primary mb-2">African Office</h3>
               <p className="text-muted-foreground mb-4">
-                27 Innovation Drive
-                <br />
-                Lagos, 101233
-                <br />
-                Nigeria
+                Lagos Nigeria
               </p>
               <Link href="/contact" className="text-accent hover:text-accent/80 font-medium">
                 Get Directions
@@ -230,10 +218,6 @@ export default function AboutPage() {
               </div>
               <h3 className="text-xl font-heading font-bold text-primary mb-2">Asia-Pacific Office</h3>
               <p className="text-muted-foreground mb-4">
-                88 Cyber Tower, Level 32
-                <br />
-                Singapore, 018956
-                <br />
                 Singapore
               </p>
               <Link href="/contact" className="text-accent hover:text-accent/80 font-medium">
